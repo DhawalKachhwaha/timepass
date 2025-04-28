@@ -8,7 +8,7 @@ To Do:
       - Blocks the DNS address
       - Unblocks the DNS address
 - Create a UI that does has the following things:
-      - List of blocked DNS (also categorizes the website into their respective categories)
-      - Do/Undo the DNS blocking
+      - List of blocked DNS to Do/Undo the DNS blocking(also categorizes the website into their respective categories)
       - Enable/Disable active DNS blocking
-      - Create
+      - Create a section to allow certain NSFW categories
+  
