@@ -3,7 +3,7 @@
 # Still deciding on whether we should block the dns address or just redirect the page to something else (like a youtube kids video)
 
 To Do:
-- Create a NLP model that reads particular tags in a website(<p><h3> etc - find out more)
+- Create a NLP model that reads particular tags in a website(p>h3> etc - find out more)
 - Create a DNS Blocking part that does two things:
       - Blocks the DNS address
       - Unblocks the DNS address
