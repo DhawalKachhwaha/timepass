@@ -1,6 +1,6 @@
 # SFW Surfing - Kid Safe Browsing --> Extension
 
-# Still deciding on whether we should block the dns address or just redirect the page to something else (like a youtube kids video)
+**Still deciding on whether we should block the dns address or just redirect the page to something else (like a youtube kids video)**
 
 To Do:
 - Create a NLP model that reads particular tags in a website(p>h3> etc - find out more)
@@ -12,3 +12,13 @@ To Do:
       - Enable/Disable active DNS blocking
       - Create a section to allow certain NSFW categories
   
+**Progress**
+
+- Created the nlp part which reads the paragraph(p) tags
+-
+**To-Do**
+- Find more tags to gather words in the website (h3 etc)
+- Turn everything into OOPs bullsh
+- Create the UI Stuff
+  
+- 
